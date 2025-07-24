@@ -1,5 +1,5 @@
 # Blood Bank Management System
-![developer](A.K.Kaushik)
+
 ---
 ## Screenshots
 ### Homepage
